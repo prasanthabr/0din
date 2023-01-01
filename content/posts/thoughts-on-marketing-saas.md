@@ -12,7 +12,7 @@ tags:
   - podcast
 ---
 
-_the (podcast)[2] was a catchup on the top 10 themes that were discussed the year_
+_the [podcast][2] was a catchup on the top 10 themes that were discussed the year_
 _I heard this yesterday and am typing in the details that I remember_
 
 **On Leveraged, <something>, Overhead (LWO) tasks**  
@@ -54,6 +54,6 @@ Do not publish features that increase operational friction
 
 
 
-- source: Lenny's Podcast : top 10 episodes of 2022
-[1]: https://thoughtbot.com
+- source: Lenny's Podcast : top 10 episodes of 2022  
+[1]: https://thoughtbot.com  
 [2]: https://www.lennyspodcast.com/countdown-of-the-top-10-episodes-of-the-year/
